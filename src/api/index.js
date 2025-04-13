@@ -1,4 +1,4 @@
-let baseurl="http://localhost:7373/api/";
+let baseurl="https://rn-be.onrender.com";
 
 export const register=async(body)=>{
     const requestoption={
