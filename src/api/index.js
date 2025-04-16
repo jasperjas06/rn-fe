@@ -1,4 +1,4 @@
-let baseurl="https://rn-be.onrender.com";
+let baseurl="https://rn-be.onrender.com/api/";
 
 export const register=async(body)=>{
     const requestoption={
